@@ -1,0 +1,15 @@
+.textCookie {
+    margin-bottom: 25px;
+    margin-left: 5px;
+}
+
+.title {
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+
+.text {
+    margin-top: 10px;
+}

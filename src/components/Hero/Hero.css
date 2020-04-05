@@ -1,5 +1,9 @@
 .hero {
     background-color: rgb(206, 198, 198);
-    height: 600px;
     width: 800px;
+    margin-top: 50px;
+}
+
+.heroTitle {
+    margin-left: 5px;
 }
